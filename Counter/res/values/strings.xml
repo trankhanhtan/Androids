@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DO NOT REMOVE the existing entries -->
+   <!-- ....... -->
+
+    <!-- ADD the following entries -->
+    <string name="btnCountLabel">Count</string>
+    <string name="rBtnUpLabel">Count Up</string>
+    <string name="rBtnDownLabel">Count Down</string>
+</resources>

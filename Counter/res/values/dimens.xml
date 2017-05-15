@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DO NOT REMOVE the existing entries -->
+    <!-- ....... -->
+
+    <!-- ADD the following entries -->
+    <dimen name="padding_medium">5dp</dimen>
+    <dimen name="padding_small">3dp</dimen>
+</resources>
